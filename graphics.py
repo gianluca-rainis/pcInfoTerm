@@ -1,6 +1,6 @@
 # pcInfoTerm/graphics.py
 # This module contains the graphical user interface (GUI) for the pcInfoTerm application
-# This project is under the GNU General Public License v3.0 (GPL-3.0).
+# This project is under the MIT License.
 
 from tkinter import *
 from tkinter.font import Font
